@@ -1,0 +1,47 @@
+{   
+   "name": "Bidouillages de Rzk",   
+   "title": "Bidouillages de Rzk",   
+   "description": "Bidouillages de Rzk",   
+   "author": "Rezuk4",
+   "systems": ["dnd5e"],
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.7",
+   "compatibleCoreVersion":"0.7",
+   "packs": [
+    {
+      "name": "MesObjets",
+      "label": "Mes objets",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "Bidouillages de Rzk"
+    },
+    {
+      "name": "MesSorts",
+      "label": "Mes Sorts",
+      "path": "packs/Spells.db",
+      "entity": "Item",
+      "module": "Bidouillages de Rzk"
+    },
+    {
+      "name": "PJ",
+      "label": "Mes PJ",
+      "path": "packs/PJ.db",
+      "entity": "Actor",
+      "module": "Bidouillages de Rzk"
+    },
+    {
+      "name": "MesMacros",
+      "label": "Mes Macros",
+      "path": "packs/Macro.db",
+      "entity": "Macro",
+      "module": "Bidouillages de Rzk"
+    },
+    {
+      "name": "PNJ",
+      "label": "Mes PNJ",
+      "path": "packs/PJ.db",
+      "entity": "Actor",
+      "module": "Bidouillages de Rzk"
+    }
+  ]
+ }
