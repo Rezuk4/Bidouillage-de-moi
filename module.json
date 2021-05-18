@@ -1,7 +1,7 @@
 {   
-   "name": "Bidouillages de Rzk",   
-   "title": "Bidouillages de Rzk",   
-   "description": "Bidouillages de Rzk",   
+   "name": "Bidouillage-de-moi",   
+   "title": "Bidouillage-de-moi",   
+   "description": "Bidouillage-de-moi",   
    "author": "Rezuk4",
    "systems": ["dnd5e"],
    "version": "1.0.0",
@@ -13,35 +13,35 @@
       "label": "Mes objets",
       "path": "packs/items.db",
       "entity": "Item",
-      "module": "Bidouillages de Rzk"
+      "module": "Bidouillage-de-moi"
     },
     {
       "name": "MesSorts",
       "label": "Mes Sorts",
       "path": "packs/Spells.db",
       "entity": "Item",
-      "module": "Bidouillages de Rzk"
+      "module": "Bidouillage-de-moi"
     },
     {
       "name": "PJ",
       "label": "Mes PJ",
       "path": "packs/PJ.db",
       "entity": "Actor",
-      "module": "Bidouillages de Rzk"
+      "module": "Bidouillage-de-moi"
     },
     {
       "name": "MesMacros",
       "label": "Mes Macros",
       "path": "packs/Macro.db",
       "entity": "Macro",
-      "module": "Bidouillages de Rzk"
+      "module": "Bidouillage-de-moi"
     },
     {
       "name": "PNJ",
       "label": "Mes PNJ",
       "path": "packs/PJ.db",
       "entity": "Actor",
-      "module": "Bidouillages de Rzk"
+      "module": "Bidouillage-de-moi"
     }
   ]
  }
